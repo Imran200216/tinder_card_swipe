@@ -37,6 +37,8 @@ dependencies:
   cupertino_icons: ^1.0.8
   flutter_card_swiper: ^7.0.2
   flutter_svg: ^2.0.14
+  google_fonts: ^6.2.1
+  cached_network_image: ^3.4.1
 
 
 dev_dependencies:
